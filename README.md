@@ -10,15 +10,15 @@ Accuracy Prediction using PySpark
 Results/Visualization/Graphs
 
 # Requirements
-GetOldTweets3==0.0.9
-pandas==0.24.2
-bs4==4.7.1
-nltk==3.4
-findspark==1.3.0
-pyspark==2.4.1
-tkinter==8.6
-matplotlib==2.2.2
-numpy==1.14.3
+GetOldTweets3==0.0.9 <br />
+pandas==0.24.2 <br />
+bs4==4.7.1 <br />
+nltk==3.4 <br />
+findspark==1.3.0 <br />
+pyspark==2.4.1 <br />
+tkinter==8.6 <br />
+matplotlib==2.2.2 <br />
+numpy==1.14.3 <br />
 
 # To run the project
 1. To define the amount of data to be fetched, in first_data_scrapping.py, change the value of self.MAX_TWEET = 5000 (in line number = 9)
