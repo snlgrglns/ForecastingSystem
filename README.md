@@ -10,6 +10,7 @@ Accuracy Prediction using PySpark
 Results/Visualization/Graphs
 
 # Requirements
+Setup Hadoop in local machine. And following are the python library used
 GetOldTweets3==0.0.9 <br />
 pandas==0.24.2 <br />
 bs4==4.7.1 <br />
